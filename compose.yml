@@ -1,0 +1,6 @@
+services:
+    arduino:
+        build: .
+        volumes:
+            - ./downloads:/downloads
+            - ./:/src
