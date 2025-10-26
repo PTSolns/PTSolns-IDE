@@ -34,9 +34,16 @@ export class Account extends Contribution {
   private readonly connectionStatus: ApplicationConnectionStatusContribution;
 
   private readonly toDispose = new DisposableCollection();
+  private app: FrontendApplication;
 
   override onStart(app: FrontendApplication): void {
-    // No longer needed as cloud functionality is removed
+    this.app = app;
+    this.updateSidebarCommand();
+    this.toDispose.push(
+      this.createFeatures.onDidChangeEnabled((enabled) =>
+        this.updateSidebarCommand(enabled)
+      )
+    );
   }
 
   onStop(): void {
@@ -115,6 +122,19 @@ export class Account extends Contribution {
     );
   }
 
+  private updateSidebarCommand(
+    visible: boolean = this.preferences['arduino.cloud.enabled']
+  ): void {
+    if (!this.app) {
+      return;
+    }
+    const handler = this.app.shell.leftPanelHandler;
+    if (visible) {
+      handler.addBottomMenu(accountMenu);
+    } else {
+      handler.removeBottomMenu(accountMenu.id);
+    }
+  }
 }
 
 export namespace Account {

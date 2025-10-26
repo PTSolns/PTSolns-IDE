@@ -1,12 +1,14 @@
 import { SidebarBottomMenuWidget as TheiaSidebarBottomMenuWidget } from '@theia/core/lib/browser/shell/sidebar-bottom-menu-widget';
 import type { SidebarMenuItem } from '@theia/core/lib/browser/shell/sidebar-menu-widget';
 import type { MenuPath } from '@theia/core/lib/common/menu';
+import { nls } from '@theia/core/lib/common/nls';
 import {
   inject,
   injectable,
   postConstruct,
 } from '@theia/core/shared/inversify';
 import React from '@theia/core/shared/react';
+import { accountMenu } from '../../contributions/account';
 import { CreateFeatures } from '../../create/create-features';
 import { ApplicationConnectionStatusContribution } from './connection-status-service';
 
@@ -49,6 +51,11 @@ export class SidebarBottomMenuWidget extends TheiaSidebarBottomMenuWidget {
     if (item.menu.id === 'settings-menu') {
       return undefined;
     }
+    const arduinoAccount = item.menu.id === accountMenu.id;
+    const arduinoAccountPicture =
+      arduinoAccount &&
+      this.connectionStatue.offlineStatus !== 'internet' &&
+      this.createFeatures.session?.account.picture;
 
     return (
       <div
@@ -60,7 +67,20 @@ export class SidebarBottomMenuWidget extends TheiaSidebarBottomMenuWidget {
         onMouseEnter={(e) => this.onMouseEnter(e, item.menu.title)}
         onMouseOut={this.onMouseOut}
       >
-        <i className={item.menu.iconClass} />
+        {arduinoAccountPicture ? (
+          <i>
+            <img
+              className="arduino-account-picture"
+              src={arduinoAccountPicture}
+              alt={nls.localize(
+                'arduino/cloud/profilePicture',
+                'Profile picture'
+              )}
+            />
+          </i>
+        ) : (
+          <i className={item.menu.iconClass} />
+        )}
         {item.badge && (
           <div className="theia-badge-decorator-sidebar">{item.badge}</div>
         )}
