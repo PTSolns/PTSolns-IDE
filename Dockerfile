@@ -33,4 +33,4 @@ WORKDIR /app
 #     yarn --cwd electron-app build &&\
 #     yarn --cwd electron-app package
 
-ENTRYPOINT [ "bash", "-c", "cp -r /src/. /app && yarn install && yarn build && yarn --cwd electron-app rebuild && yarn --cwd electron-app build && yarn --cwd electron-app package && rm -rf /downloads/* && cp -r /app/electron-app/dist/* /downloads" ]
+ENTRYPOINT [ "bash", "-c", "rm -rf /app/* && cp -r /src/. /app && yarn install && yarn build && yarn --cwd electron-app rebuild && yarn --cwd electron-app build && yarn --cwd electron-app package && rm -rf /downloads/* && cp -r /app/electron-app/dist/* /downloads" ]
