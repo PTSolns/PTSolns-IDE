@@ -272,7 +272,7 @@
       "visit": "Visitar Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "Checar atualizações da Arduino IDE",
+      "checkForUpdates": "Checar atualizações da PTSolns IDE",
       "closeAndInstallButton": "Fechar e instalar ",
       "closeToInstallNotice": "Feche o software e instale a atualização em sua máquina. ",
       "donateLinkIconTitle": "open donation page",
@@ -282,14 +282,14 @@
       "downloadingNotice": "Baixando a versão mais recente do IDE do Arduino.",
       "errorCheckingForUpdates": "Erro ao verificar as atualizações do IDE do Arduino. {0}",
       "goToDownloadButton": "Ir A Baixar",
-      "goToDownloadPage": "Uma atualização para o Arduino IDE está disponível, mas não podemos baixá-la e instalá-la automaticamente. Por favor, vá para a página de download e baixe a versão mais recente de lá. ",
+      "goToDownloadPage": "Uma atualização para o PTSolns IDE está disponível, mas não podemos baixá-la e instalá-la automaticamente. Por favor, vá para a página de download e baixe a versão mais recente de lá. ",
       "ideUpdaterDialog": "Atualização de software ",
-      "newVersionAvailable": "Uma nova versão do Arduino IDE ({0}) está disponível para download.",
-      "noUpdatesAvailable": "Não há atualizações recentes disponíveis para o Arduino IDE ",
+      "newVersionAvailable": "Uma nova versão do PTSolns IDE ({0}) está disponível para download.",
+      "noUpdatesAvailable": "Não há atualizações recentes disponíveis para o PTSolns IDE ",
       "notNowButton": "Agora não ",
       "skipVersionButton": "Pular Versão",
       "updateAvailable": "Atualização Disponível",
-      "versionDownloaded": "O Arduino IDE {0} foi baixado. "
+      "versionDownloaded": "O PTSolns IDE {0} foi baixado. "
     },
     "installable": {
       "libraryInstallFailed": "A instalação da biblioteca '{0}{1}' falhou. ",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' já existe."

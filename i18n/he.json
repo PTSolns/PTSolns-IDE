@@ -279,17 +279,17 @@
       "donateLinkText": "donate to support us",
       "donateText": "Open source is love, {0}",
       "downloadButton": "הורד",
-      "downloadingNotice": "מוריד את הגרסה המעודכנת האחרונה של Arduino IDE.",
-      "errorCheckingForUpdates": "שגיאה בעת בדיקת עדכונים ל Arduino IDE.\n{0}",
+      "downloadingNotice": "מוריד את הגרסה המעודכנת האחרונה של PTSolns IDE.",
+      "errorCheckingForUpdates": "שגיאה בעת בדיקת עדכונים ל PTSolns IDE.\n{0}",
       "goToDownloadButton": "לך להורדות",
       "goToDownloadPage": "העדכון לArduino IDE זמין, אבל לא ניתן היה להוריד ולהתקין אותו אוטומטית. נא ללכת לדף ההורדות ולהוריד את הגרסה האחרונה משם.",
       "ideUpdaterDialog": "עדכון תוכנה",
-      "newVersionAvailable": "גרסה חדשה של Arduino IDE ({0}) מוכנה להורדה.",
-      "noUpdatesAvailable": "אין עדכונים חדשים זמינים ל Arduino IDE",
+      "newVersionAvailable": "גרסה חדשה של PTSolns IDE ({0}) מוכנה להורדה.",
+      "noUpdatesAvailable": "אין עדכונים חדשים זמינים ל PTSolns IDE",
       "notNowButton": "לא עכשיו",
       "skipVersionButton": "דלג גרסה",
       "updateAvailable": "נמצא עדכון",
-      "versionDownloaded": "Arduino IDE {0} ירד בהצלחה"
+      "versionDownloaded": "PTSolns IDE {0} ירד בהצלחה"
     },
     "installable": {
       "libraryInstallFailed": "Failed to install library: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "New Sketch"
     },
     "theme": {
-      "currentThemeNotFound": "Could not find the currently selected theme: {0}. Arduino IDE has picked a built-in theme compatible with the missing one.",
+      "currentThemeNotFound": "Could not find the currently selected theme: {0}. PTSolns IDE has picked a built-in theme compatible with the missing one.",
       "dark": "Dark",
       "deprecated": "{0} (deprecated)",
       "hc": "Dark High Contrast",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' already exists."

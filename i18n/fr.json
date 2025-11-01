@@ -272,7 +272,7 @@
       "visit": "Visitez Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "Check for Arduino IDE Updates",
+      "checkForUpdates": "Check for PTSolns IDE Updates",
       "closeAndInstallButton": "Fermer et installer",
       "closeToInstallNotice": "Fermez le logiciel et installez la mise à jour sur votre machine.",
       "donateLinkIconTitle": "open donation page",

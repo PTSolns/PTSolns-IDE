@@ -272,7 +272,7 @@
       "visit": "造訪 Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "檢查 Arduino IDE 更新",
+      "checkForUpdates": "檢查 PTSolns IDE 更新",
       "closeAndInstallButton": "關閉並安裝。",
       "closeToInstallNotice": "關閉本程式後安裝更新。",
       "donateLinkIconTitle": "open donation page",
@@ -280,16 +280,16 @@
       "donateText": "Open source is love, {0}",
       "downloadButton": "下載",
       "downloadingNotice": "正在下載最新版本的Arduino IDE。",
-      "errorCheckingForUpdates": "檢查 Arduino IDE 更新時發生錯誤。\n{0}",
+      "errorCheckingForUpdates": "檢查 PTSolns IDE 更新時發生錯誤。\n{0}",
       "goToDownloadButton": "前往下載",
-      "goToDownloadPage": "Arduino IDE 有更新版本, 但我們無法自動下載安裝, 請至下載頁面下載最新的版本。",
+      "goToDownloadPage": "PTSolns IDE 有更新版本, 但我們無法自動下載安裝, 請至下載頁面下載最新的版本。",
       "ideUpdaterDialog": "軟體更新",
-      "newVersionAvailable": "Arduino IDE 有新版本（{0}）可供下載。",
-      "noUpdatesAvailable": "Arduino IDE 沒更新檔。",
+      "newVersionAvailable": "PTSolns IDE 有新版本（{0}）可供下載。",
+      "noUpdatesAvailable": "PTSolns IDE 沒更新檔。",
       "notNowButton": "現在不要",
       "skipVersionButton": "略過這個版本",
       "updateAvailable": "有更新檔。",
-      "versionDownloaded": "Arduino IDE{0}下載完成。"
+      "versionDownloaded": "PTSolns IDE{0}下載完成。"
     },
     "installable": {
       "libraryInstallFailed": "程式庫 ' {0} {1}' : 安裝失敗。",
@@ -490,7 +490,7 @@
       "newSketch": "新增 sketch"
     },
     "theme": {
-      "currentThemeNotFound": "找不到目前選擇的主題：{0} 。 Arduino IDE 挑選了一個內建的相容主題。",
+      "currentThemeNotFound": "找不到目前選擇的主題：{0} 。 PTSolns IDE 挑選了一個內建的相容主題。",
       "dark": "暗色",
       "deprecated": "{0} （已棄用）",
       "hc": "深色高對比",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}'已存在。"

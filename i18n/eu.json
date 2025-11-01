@@ -272,7 +272,7 @@
       "visit": "Bisitatu Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "Check for Arduino IDE Updates",
+      "checkForUpdates": "Check for PTSolns IDE Updates",
       "closeAndInstallButton": "Itxi eta instalatu",
       "closeToInstallNotice": "Itxi softwarea eta instalatu eguneratzea zure makinan.",
       "donateLinkIconTitle": "open donation page",
@@ -280,7 +280,7 @@
       "donateText": "Open source is love, {0}",
       "downloadButton": "Software eguneratzea",
       "downloadingNotice": "Arduino IDEren azken bertsioa deskargatzen",
-      "errorCheckingForUpdates": "Errorea Arduino IDE eguneraketak egiaztatzean.\n{0}",
+      "errorCheckingForUpdates": "Errorea PTSolns IDE eguneraketak egiaztatzean.\n{0}",
       "goToDownloadButton": "Joan Deskargak orrira",
       "goToDownloadPage": "Arduino IDErentzako eguneraketa bat eskuragarri dago, baina ezin dugu automatikoki deskargatu eta instalatu. Mesedez joan deskargen orrira eta deskargatu azken bertsioa bertatik.",
       "ideUpdaterDialog": "Software eguneratzea",
@@ -289,7 +289,7 @@
       "notNowButton": "Orain ez",
       "skipVersionButton": "Saltatu bertsioa",
       "updateAvailable": "Eguneratzea eskuragarri",
-      "versionDownloaded": "Arduino IDE {0} deskargatu da."
+      "versionDownloaded": "PTSolns IDE {0} deskargatu da."
     },
     "installable": {
       "libraryInstallFailed": "Failed to install library: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "New Sketch"
     },
     "theme": {
-      "currentThemeNotFound": "Could not find the currently selected theme: {0}. Arduino IDE has picked a built-in theme compatible with the missing one.",
+      "currentThemeNotFound": "Could not find the currently selected theme: {0}. PTSolns IDE has picked a built-in theme compatible with the missing one.",
       "dark": "Dark",
       "deprecated": "{0} (deprecated)",
       "hc": "Dark High Contrast",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' already exists."

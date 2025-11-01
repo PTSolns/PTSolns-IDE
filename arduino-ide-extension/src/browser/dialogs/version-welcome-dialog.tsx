@@ -26,7 +26,7 @@ export class VersionWelcomeDialog extends ReactDialog<void> {
     super({
       title: nls.localize(
         'arduino/versionWelcome/title',
-        'Welcome to a new version of the Arduino IDE!'
+        'Welcome to a new version of the PTSolns IDE!'
       ),
     });
     this.node.id = 'version-welcome-dialog-container';
@@ -45,7 +45,7 @@ export class VersionWelcomeDialog extends ReactDialog<void> {
         <p className="bold">
           {nls.localize(
             'arduino/versionWelcome/donateMessage2',
-            'Please consider supporting our work on the free open source Arduino IDE.'
+            'Please consider supporting our work on the free open source PTSolns IDE.'
           )}
         </p>
       </div>
@@ -91,7 +91,7 @@ export class VersionWelcomeDialog extends ReactDialog<void> {
       this.titleNode.innerText = sanitize(
         nls.localize(
           'arduino/versionWelcome/titleWithVersion',
-          'Welcome to the new Arduino IDE {0}!',
+          'Welcome to the new PTSolns IDE {0}!',
           appVersion
         )
       );

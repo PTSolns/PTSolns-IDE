@@ -76,7 +76,7 @@ export class CheckForIDEUpdates extends Contribution {
         this.messageService.error(
           nls.localize(
             'arduino/ide-updater/errorCheckingForUpdates',
-            'Error while checking for Arduino IDE updates.\n{0}',
+            'Error while checking for PTSolns IDE updates.\n{0}',
             e.message
           )
         );

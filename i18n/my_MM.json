@@ -279,17 +279,17 @@
       "donateLinkText": "donate to support us",
       "donateText": "Open source is love, {0}",
       "downloadButton": "ဒေါင်းလုတ်ဆွဲမယ်",
-      "downloadingNotice": "နောက်ဆုံးပေါ် Arduino IDE ဗားရှင်းကို ဒေါင်းလုတ်ဆွဲနေတယ်။",
-      "errorCheckingForUpdates": "Arduino IDE အပ်ဒိတ်တွေအတွက် စစ်ဆေးနေတုန်း ပြဿနာတက်သွားတယ်။\n{0}",
+      "downloadingNotice": "နောက်ဆုံးပေါ် PTSolns IDE ဗားရှင်းကို ဒေါင်းလုတ်ဆွဲနေတယ်။",
+      "errorCheckingForUpdates": "PTSolns IDE အပ်ဒိတ်တွေအတွက် စစ်ဆေးနေတုန်း ပြဿနာတက်သွားတယ်။\n{0}",
       "goToDownloadButton": "ဒေါင်းလုတ်ကို သွားပါ",
-      "goToDownloadPage": "Arduino IDE အတွက် အပ်ဒိတ်အသစ်ရပါပြီ။ ဒါပေမယ့် ကျွန်ုပ်တို့တွေ အလိုအလျောက် ဒေါင်းလုတ်ဆွဲပြီး ထည့်သွင်းမပေးနိုင်ပါတော့ပါ။ ကျေးဇူးပြု၍ ဒေါင်းလုတ်စာမျက်နှာသို့သွားပြီး အဲ့ဒီကနေ နောက်ဆုံးပေါ်ဗားရှင်းကို ဒေါင်းလုတ်ဆွဲပါ။",
+      "goToDownloadPage": "PTSolns IDE အတွက် အပ်ဒိတ်အသစ်ရပါပြီ။ ဒါပေမယ့် ကျွန်ုပ်တို့တွေ အလိုအလျောက် ဒေါင်းလုတ်ဆွဲပြီး ထည့်သွင်းမပေးနိုင်ပါတော့ပါ။ ကျေးဇူးပြု၍ ဒေါင်းလုတ်စာမျက်နှာသို့သွားပြီး အဲ့ဒီကနေ နောက်ဆုံးပေါ်ဗားရှင်းကို ဒေါင်းလုတ်ဆွဲပါ။",
       "ideUpdaterDialog": "ဆော့ဖ်ဝဲလ် အပ်ဒိတ်",
-      "newVersionAvailable": "Arduino IDE ဗားရှင်းအသစ် ({0}) ကို ဒေါင်းလုတ်ဆွဲနိုင်ပါပြီ။",
-      "noUpdatesAvailable": "Arduino IDE အတွက် လက်တလောတွင် ဆော့ဖ်ဝဲလ်အသစ်များ မရနိုင်သေးပါ",
+      "newVersionAvailable": "PTSolns IDE ဗားရှင်းအသစ် ({0}) ကို ဒေါင်းလုတ်ဆွဲနိုင်ပါပြီ။",
+      "noUpdatesAvailable": "PTSolns IDE အတွက် လက်တလောတွင် ဆော့ဖ်ဝဲလ်အသစ်များ မရနိုင်သေးပါ",
       "notNowButton": "ယခုမဟုတ်ပါ",
       "skipVersionButton": "ဗားရှင်းကျော်မည်",
       "updateAvailable": "အပ်ဒိတ်ရပါပြီ",
-      "versionDownloaded": "Arduino IDE {0} ကိုဒေါင်းလုတ်ဆွဲပြီးပါပြီ။"
+      "versionDownloaded": "PTSolns IDE {0} ကိုဒေါင်းလုတ်ဆွဲပြီးပါပြီ။"
     },
     "installable": {
       "libraryInstallFailed": "Failed to install library: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "New Sketch"
     },
     "theme": {
-      "currentThemeNotFound": "Could not find the currently selected theme: {0}. Arduino IDE has picked a built-in theme compatible with the missing one.",
+      "currentThemeNotFound": "Could not find the currently selected theme: {0}. PTSolns IDE has picked a built-in theme compatible with the missing one.",
       "dark": "Dark",
       "deprecated": "{0} (deprecated)",
       "hc": "Dark High Contrast",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' already exists."

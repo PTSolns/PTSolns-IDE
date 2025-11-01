@@ -272,24 +272,24 @@
       "visit": "Visit Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "Check for Arduino IDE Updates",
+      "checkForUpdates": "Check for PTSolns IDE Updates",
       "closeAndInstallButton": "Close and Install",
       "closeToInstallNotice": "Close the software and install the update on your machine.",
       "donateLinkIconTitle": "open donation page",
       "donateLinkText": "donate to support us",
       "donateText": "Open source is love, {0}",
       "downloadButton": "Download",
-      "downloadingNotice": "Downloading the latest version of the Arduino IDE.",
-      "errorCheckingForUpdates": "Error while checking for Arduino IDE updates.\n{0}",
+      "downloadingNotice": "Downloading the latest version of the PTSolns IDE.",
+      "errorCheckingForUpdates": "Error while checking for PTSolns IDE updates.\n{0}",
       "goToDownloadButton": "Go To Download",
-      "goToDownloadPage": "มีการอัปเดตสำหรับ Arduino IDE แต่เราไม่สามารถดาวน์โหลดและติดตั้งมันโดยอัตโนมัติได้ กรุณาไปที่หน้าดาวน์โหลดและดาวน์โหลดเวอร์ชันล่าสุดจากที่นั่น",
+      "goToDownloadPage": "มีการอัปเดตสำหรับ PTSolns IDE แต่เราไม่สามารถดาวน์โหลดและติดตั้งมันโดยอัตโนมัติได้ กรุณาไปที่หน้าดาวน์โหลดและดาวน์โหลดเวอร์ชันล่าสุดจากที่นั่น",
       "ideUpdaterDialog": "Software Update",
-      "newVersionAvailable": "A new version of Arduino IDE ({0}) is available for download.",
-      "noUpdatesAvailable": "There are no recent updates available for the Arduino IDE",
+      "newVersionAvailable": "A new version of PTSolns IDE ({0}) is available for download.",
+      "noUpdatesAvailable": "There are no recent updates available for the PTSolns IDE",
       "notNowButton": "Not now",
       "skipVersionButton": "Skip Version",
       "updateAvailable": "Update Available",
-      "versionDownloaded": "Arduino IDE {0} has been downloaded."
+      "versionDownloaded": "PTSolns IDE {0} has been downloaded."
     },
     "installable": {
       "libraryInstallFailed": "Failed to install library: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "สเก็ตช์ ใหม่"
     },
     "theme": {
-      "currentThemeNotFound": " ไม่สามารถค้นหาธีมที่เลือกไว้ในปัจจุบัน: {0} Arduino IDE ได้เลือกธีมที่มีในตัวที่เข้ากันได้กับธีมที่หายไป",
+      "currentThemeNotFound": " ไม่สามารถค้นหาธีมที่เลือกไว้ในปัจจุบัน: {0} PTSolns IDE ได้เลือกธีมที่มีในตัวที่เข้ากันได้กับธีมที่หายไป",
       "dark": "มืด",
       "deprecated": "{0} (เลิกใช้แล้ว)",
       "hc": "มืด",
@@ -526,9 +526,9 @@
       "cancelButton": "อาจจะในภายหลัง",
       "donateButton": "บริจาคเลย!",
       "donateMessage": "Arduino มุ่งมั่นที่จะรักษาซอฟต์แวร์ให้ฟรีและเป็นโอเพ่นซอร์สสำหรับทุกคน การบริจาคของคุณช่วยให้เราพัฒนาฟีเจอร์ใหม่ ปรับปรุงไลบรารี และรองรับผู้ใช้หลายล้านคนทั่วโลก!",
-      "donateMessage2": "โปรดพิจารณาสนับสนุนงานของเราบน Arduino IDE ที่เป็นโอเพนซอร์สฟรี",
-      "title": "ยินดีต้อนรับสู่เวอร์ชันใหม่ของ Arduino IDE!",
-      "titleWithVersion": "ยินดีต้อนรับสู่ Arduino IDE ใหม่ {0}!"
+      "donateMessage2": "โปรดพิจารณาสนับสนุนงานของเราบน PTSolns IDE ที่เป็นโอเพนซอร์สฟรี",
+      "title": "ยินดีต้อนรับสู่เวอร์ชันใหม่ของ PTSolns IDE!",
+      "titleWithVersion": "ยินดีต้อนรับสู่ PTSolns IDE ใหม่ {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' มีอยู่แล้ว"

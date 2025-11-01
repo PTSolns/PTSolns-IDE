@@ -279,17 +279,17 @@
       "donateLinkText": "darujte, abyste nás podpořili",
       "donateText": "Open source is láska, {0}",
       "downloadButton": "Stáhnout",
-      "downloadingNotice": "Stahuji poslední verzi Arduino IDE.",
-      "errorCheckingForUpdates": "Nastala chyba při kontrole aktualizací Arduino IDE{0}",
+      "downloadingNotice": "Stahuji poslední verzi PTSolns IDE.",
+      "errorCheckingForUpdates": "Nastala chyba při kontrole aktualizací PTSolns IDE{0}",
       "goToDownloadButton": "přejit do stažených",
-      "goToDownloadPage": "Je dostupná aktualizace pro Arduino IDE, ale nepodařilo se jej stáhnout a nainstalovat automaticky. Prosím navštivte stránku pro stažení a stáhněte prosím jeho poslední verzi ručně. ",
+      "goToDownloadPage": "Je dostupná aktualizace pro PTSolns IDE, ale nepodařilo se jej stáhnout a nainstalovat automaticky. Prosím navštivte stránku pro stažení a stáhněte prosím jeho poslední verzi ručně. ",
       "ideUpdaterDialog": "Softwarová aktualizace",
-      "newVersionAvailable": "Je k dispozici nová verze Arduino IDE ({0}).",
+      "newVersionAvailable": "Je k dispozici nová verze PTSolns IDE ({0}).",
       "noUpdatesAvailable": "Nejsou k dispozici žádné aktualizace pro Arduino ID",
       "notNowButton": "Nyní ne",
       "skipVersionButton": "přeskočit verzi",
       "updateAvailable": "Je dostupná aktualizace",
-      "versionDownloaded": "Arduino IDE {0}bylo staženo."
+      "versionDownloaded": "PTSolns IDE {0}bylo staženo."
     },
     "installable": {
       "libraryInstallFailed": "Instalace knihovny '{0}{1}' se nezdařila. ",
@@ -490,7 +490,7 @@
       "newSketch": "Nový projekt"
     },
     "theme": {
-      "currentThemeNotFound": "Nelze najít aktuálně vybrané téma: {0}. Arduino IDE vybralo vestavěné téma kompatibilní s chybějícím tématem.",
+      "currentThemeNotFound": "Nelze najít aktuálně vybrané téma: {0}. PTSolns IDE vybralo vestavěné téma kompatibilní s chybějícím tématem.",
       "dark": "Tmavý",
       "deprecated": "{0} (zastaralé)",
       "hc": "Tmavý s vysokým kontrastem",
@@ -526,9 +526,9 @@
       "cancelButton": "Možná později.",
       "donateButton": "Darujte teď! 😀",
       "donateMessage": "Arduino se zavázalo udržovat software zdarma a s otevřeným zdrojovým kódem pro všechny. Váš příspěvek nám pomáhá vyvíjet nové funkce, vylepšovat knihovny a podporovat miliony uživatelů po celém světě.",
-      "donateMessage2": "Zvažte prosím podporu naší práce na bezplatném a open source Arduino IDE.",
+      "donateMessage2": "Zvažte prosím podporu naší práce na bezplatném a open source PTSolns IDE.",
       "title": "Vítejte v nové verzi Arduina IDE!",
-      "titleWithVersion": "Vítejte v novém Arduino IDE  {0}!"
+      "titleWithVersion": "Vítejte v novém PTSolns IDE  {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' již existuje."

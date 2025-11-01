@@ -127,5 +127,5 @@ export function preload(): void {
       handler();
     }
   });
-  console.log('Exposed Arduino IDE electron API');
+  console.log('Exposed PTSolns IDE electron API');
 }

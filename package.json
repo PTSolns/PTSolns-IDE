@@ -1,9 +1,9 @@
 {
   "name": "arduino-ide",
   "version": "2.3.7",
-  "description": "Arduino IDE",
-  "repository": "https://github.com/arduino/arduino-ide.git",
-  "author": "Arduino SA",
+  "description": "PTSolns IDE",
+  "repository": "https://github.com/PTSolns/PTSolns-IDE.git",
+  "author": "Arduino SA & PTSolns",
   "license": "AGPL-3.0-or-later",
   "private": true,
   "engines": {

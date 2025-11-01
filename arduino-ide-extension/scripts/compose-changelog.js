@@ -6,7 +6,7 @@
   const path = require('path');
 
   const octokit = new Octokit({
-    userAgent: 'Arduino IDE compose-changelog.js',
+    userAgent: 'PTSolns IDE compose-changelog.js',
   });
 
   const response = await octokit.rest.repos

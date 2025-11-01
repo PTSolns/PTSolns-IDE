@@ -272,24 +272,24 @@
       "visit": "Відвідати Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "Перевірка оновлень Arduino IDE",
+      "checkForUpdates": "Перевірка оновлень PTSolns IDE",
       "closeAndInstallButton": "Закрити та Встановити",
       "closeToInstallNotice": "Закрийте програму та встановіть оновлення.",
       "donateLinkIconTitle": "open donation page",
       "donateLinkText": "donate to support us",
       "donateText": "Open source is love, {0}",
       "downloadButton": "Завантажити",
-      "downloadingNotice": "Завантажити останню версію Arduino IDE.",
-      "errorCheckingForUpdates": "Помилка під час перевірки оновлень Arduino IDE {0}",
+      "downloadingNotice": "Завантажити останню версію PTSolns IDE.",
+      "errorCheckingForUpdates": "Помилка під час перевірки оновлень PTSolns IDE {0}",
       "goToDownloadButton": "Перейти до завантаження ",
-      "goToDownloadPage": "Знайдено оновлення Arduino IDE, але його не вдається завантажити та встановити автоматично. Будь ласка, перейдіть на сторінку завантажень.",
+      "goToDownloadPage": "Знайдено оновлення PTSolns IDE, але його не вдається завантажити та встановити автоматично. Будь ласка, перейдіть на сторінку завантажень.",
       "ideUpdaterDialog": "Оновлення ПЗ",
-      "newVersionAvailable": "Нова версія Arduino IDE ({0}) доступна для завантаження.",
-      "noUpdatesAvailable": "Нема доступних оновлень для Arduino IDE",
+      "newVersionAvailable": "Нова версія PTSolns IDE ({0}) доступна для завантаження.",
+      "noUpdatesAvailable": "Нема доступних оновлень для PTSolns IDE",
       "notNowButton": "Не зараз",
       "skipVersionButton": "Пропустити Версію",
       "updateAvailable": "Доступне оновлення",
-      "versionDownloaded": "Arduino IDE {0} було завантажено"
+      "versionDownloaded": "PTSolns IDE {0} було завантажено"
     },
     "installable": {
       "libraryInstallFailed": "Помилка при встановленні бібліотеки: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "Новий скетч"
     },
     "theme": {
-      "currentThemeNotFound": "Не вдалося знайти поточну вибрану тему: {0}. Arduino IDE вибрала вбудовану тему, сумісну з відсутньою.",
+      "currentThemeNotFound": "Не вдалося знайти поточну вибрану тему: {0}. PTSolns IDE вибрала вбудовану тему, сумісну з відсутньою.",
       "dark": "Темна",
       "deprecated": "{0} (застарілий)",
       "hc": "Темна. Високий контраст",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' вже існує."

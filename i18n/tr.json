@@ -272,24 +272,24 @@
       "visit": "Arduino.cc'yi Ziyaret Et"
     },
     "ide-updater": {
-      "checkForUpdates": "Arduino IDE Güncellemelerini kontrol et",
+      "checkForUpdates": "PTSolns IDE Güncellemelerini kontrol et",
       "closeAndInstallButton": "Kapat ve Kur",
       "closeToInstallNotice": "Yazılımı kapatın ve güncellemeyi makinanıza yükleyin.",
       "donateLinkIconTitle": "bağış sayfasını aç",
       "donateLinkText": "bizi desteklemek için bağış yap",
       "donateText": "Açık kaynak aşktır, {0}",
       "downloadButton": "İndir",
-      "downloadingNotice": "Arduino IDE'nin son sürümü indiriliyor.",
-      "errorCheckingForUpdates": "Arduino IDE güncellemelerini kontrol ederken hata oluştu.{0}",
+      "downloadingNotice": "PTSolns IDE'nin son sürümü indiriliyor.",
+      "errorCheckingForUpdates": "PTSolns IDE güncellemelerini kontrol ederken hata oluştu.{0}",
       "goToDownloadButton": "İndirmeye Git",
-      "goToDownloadPage": "Arduino IDE için bir güncelleme mevcut, ancak otomatik olarak indirip kuramadık. Lütfen indirme sayfasına gidin ve son sürümü oradan indirin.",
+      "goToDownloadPage": "PTSolns IDE için bir güncelleme mevcut, ancak otomatik olarak indirip kuramadık. Lütfen indirme sayfasına gidin ve son sürümü oradan indirin.",
       "ideUpdaterDialog": "Yazılım Güncelleme",
-      "newVersionAvailable": "Yeni sürüm Arduino IDE ({0}) indirilmeye hazır.",
-      "noUpdatesAvailable": "Arduino IDE için yeni bir güncelleme bulunmuyor",
+      "newVersionAvailable": "Yeni sürüm PTSolns IDE ({0}) indirilmeye hazır.",
+      "noUpdatesAvailable": "PTSolns IDE için yeni bir güncelleme bulunmuyor",
       "notNowButton": "Şimdi değil",
       "skipVersionButton": "Sürümü Atla",
       "updateAvailable": "Güncelleme Mevcut",
-      "versionDownloaded": "Arduino IDE {0} indirildi."
+      "versionDownloaded": "PTSolns IDE {0} indirildi."
     },
     "installable": {
       "libraryInstallFailed": "Kütüphane kurulamadı: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "Yeni Eskiz"
     },
     "theme": {
-      "currentThemeNotFound": "Mevcut seçili tema bulunamadı: {0}. Arduino IDE kayıp olanın yerine uyumlu dahili bir tane seçti.",
+      "currentThemeNotFound": "Mevcut seçili tema bulunamadı: {0}. PTSolns IDE kayıp olanın yerine uyumlu dahili bir tane seçti.",
       "dark": "Koyu",
       "deprecated": "{0} (kaldırıldı)",
       "hc": "Koyu Yüksek Karşıtlık",
@@ -526,9 +526,9 @@
       "cancelButton": "Belki sonra",
       "donateButton": "Şimdi bağış yap",
       "donateMessage": "Arduino, yazılımı herkes için ücretsiz ve açık kaynaklı tutmaya adanmıştır. Bağışınız yeni özellikler geliştirmemize, kütüphaneleri daha iyi yapmamıza ve dünya çapındaki milyonlarca kullanıcıyı desteklememize yardım eder.",
-      "donateMessage2": "Lütfen özgür açık kaynaklı Arduino IDE üzerindeki çalışmalarımızı desteklemeyi gözden geçirin.",
-      "title": "Arduino IDE'nin yeni sürümüne hoş geldiniz!",
-      "titleWithVersion": "Yeni Arduino IDE'ye hoş geldin {0}!"
+      "donateMessage2": "Lütfen özgür açık kaynaklı PTSolns IDE üzerindeki çalışmalarımızı desteklemeyi gözden geçirin.",
+      "title": "PTSolns IDE'nin yeni sürümüne hoş geldiniz!",
+      "titleWithVersion": "Yeni PTSolns IDE'ye hoş geldin {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' zaten mevcut."

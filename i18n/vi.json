@@ -279,17 +279,17 @@
       "donateLinkText": "donate to support us",
       "donateText": "Open source is love, {0}",
       "downloadButton": "Tải về",
-      "downloadingNotice": "Đang tải về bản mới nhất của Arduino IDE.",
-      "errorCheckingForUpdates": "Có lỗi xảy ra trong quá trình kiểm tra cập nhật Arduino IDE.\n{0}",
+      "downloadingNotice": "Đang tải về bản mới nhất của PTSolns IDE.",
+      "errorCheckingForUpdates": "Có lỗi xảy ra trong quá trình kiểm tra cập nhật PTSolns IDE.\n{0}",
       "goToDownloadButton": "Đi tới trang tải về",
-      "goToDownloadPage": "Đã có bản cập nhật cho Arduino IDE, nhưng chúng tôi không thể tự động tải về và cài đặt. Hãy truy cập trang tải về và tải bản mới nhất từ đấy.",
+      "goToDownloadPage": "Đã có bản cập nhật cho PTSolns IDE, nhưng chúng tôi không thể tự động tải về và cài đặt. Hãy truy cập trang tải về và tải bản mới nhất từ đấy.",
       "ideUpdaterDialog": "Cập nhật phần mềm",
-      "newVersionAvailable": "Đã có bản mới hơn của Arduino IDE ({0}) để tải xuống.",
-      "noUpdatesAvailable": "Hiện tại không có bản cập nhật mới cho Arduino IDE",
+      "newVersionAvailable": "Đã có bản mới hơn của PTSolns IDE ({0}) để tải xuống.",
+      "noUpdatesAvailable": "Hiện tại không có bản cập nhật mới cho PTSolns IDE",
       "notNowButton": "Không phải bây giờ",
       "skipVersionButton": "Bỏ qua",
       "updateAvailable": "Cập nhật khả dụng",
-      "versionDownloaded": "Arduino IDE {0} đã được tải về."
+      "versionDownloaded": "PTSolns IDE {0} đã được tải về."
     },
     "installable": {
       "libraryInstallFailed": "Cài thư viện {0}{1} không thành công",
@@ -490,7 +490,7 @@
       "newSketch": "Bản phác thảo mới"
     },
     "theme": {
-      "currentThemeNotFound": "Could not find the currently selected theme: {0}. Arduino IDE has picked a built-in theme compatible with the missing one.",
+      "currentThemeNotFound": "Could not find the currently selected theme: {0}. PTSolns IDE has picked a built-in theme compatible with the missing one.",
       "dark": "Tối",
       "deprecated": "{0}(Không được dùng nữa)",
       "hc": "Độ tương phản tối cao",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}'đã tồn tại."

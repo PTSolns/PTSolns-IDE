@@ -29,7 +29,7 @@ sudo apt update \
 && sudo apt update && sudo apt install --no-install-recommends yarn \
 && mkdir -p ~/dev/git/ \
 && rm -rf ~/dev/git/arduino-ide \
-&& git clone --depth 1 https://github.com/arduino/arduino-ide.git ~/dev/git/arduino-ide \
+&& git clone --depth 1 https://github.com/PTSolns/PTSolns-IDE.git ~/dev/git/arduino-ide \
 && yarn --cwd ~/dev/git/arduino-ide \
 && yarn --cwd ~/dev/git/arduino-ide/electron-app rebuild \
 && yarn --cwd ~/dev/git/arduino-ide build \

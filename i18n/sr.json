@@ -272,24 +272,24 @@
       "visit": "Посјети Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "Check for Arduino IDE Updates",
+      "checkForUpdates": "Check for PTSolns IDE Updates",
       "closeAndInstallButton": "Затвори и инсталирај",
       "closeToInstallNotice": "Затворите програм и покрените инсталацију надоградње на ваш рачунар.",
       "donateLinkIconTitle": "open donation page",
       "donateLinkText": "donate to support us",
       "donateText": "Open source is love, {0}",
       "downloadButton": "Преузимање",
-      "downloadingNotice": "Преузимање последње верзије Arduino IDE.",
-      "errorCheckingForUpdates": "Грешка приликом провере надоградњи за Arduino IDE.\n{0}",
+      "downloadingNotice": "Преузимање последње верзије PTSolns IDE.",
+      "errorCheckingForUpdates": "Грешка приликом провере надоградњи за PTSolns IDE.\n{0}",
       "goToDownloadButton": "Пређите на преузимање",
       "goToDownloadPage": "Ажурирање за Arduine IDE је доступно, али нисмо у могућности да га аутоматски преузмемо и инсталирамо. Идите на страницу за преузимање и преузмите најновију верзију одатле.",
       "ideUpdaterDialog": "Надоградња програма",
-      "newVersionAvailable": "Нова верзија Arduino IDE ({0}) је доступна за преузимање.",
+      "newVersionAvailable": "Нова верзија PTSolns IDE ({0}) је доступна за преузимање.",
       "noUpdatesAvailable": "Нема недавних доступних ажурирања за Arduine IDE",
       "notNowButton": "Не сада",
       "skipVersionButton": "Прескочите ову верзију",
       "updateAvailable": "Доступна је надоградња",
-      "versionDownloaded": "Arduino IDE {0} је преузет."
+      "versionDownloaded": "PTSolns IDE {0} је преузет."
     },
     "installable": {
       "libraryInstallFailed": "Failed to install library: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "New Sketch"
     },
     "theme": {
-      "currentThemeNotFound": "Could not find the currently selected theme: {0}. Arduino IDE has picked a built-in theme compatible with the missing one.",
+      "currentThemeNotFound": "Could not find the currently selected theme: {0}. PTSolns IDE has picked a built-in theme compatible with the missing one.",
       "dark": "Dark",
       "deprecated": "{0} (deprecated)",
       "hc": "Dark High Contrast",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' already exists."

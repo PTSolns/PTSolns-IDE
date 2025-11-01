@@ -279,17 +279,17 @@
       "donateLinkText": "dona per sostenerci",
       "donateText": "L'open source è amore, {0}",
       "downloadButton": "Scarica",
-      "downloadingNotice": "Stai scaricando l’ultima versione dell’Arduino IDE",
-      "errorCheckingForUpdates": "Si è verificato un errore durante il controllo degli aggiornamenti per Arduino IDE {0}.",
+      "downloadingNotice": "Stai scaricando l’ultima versione dell’PTSolns IDE",
+      "errorCheckingForUpdates": "Si è verificato un errore durante il controllo degli aggiornamenti per PTSolns IDE {0}.",
       "goToDownloadButton": "Clicca per scaricare",
-      "goToDownloadPage": "E' disponibile un nuovo aggiornamento per Arduino IDE, ma attualmente non è possibile scaricarlo ne tantomeno installarlo in modalità automatica. Si consiglia di andare sul sito ufficiale e dalla pagina  download scaricare l'ultima versione disponibile. ",
+      "goToDownloadPage": "E' disponibile un nuovo aggiornamento per PTSolns IDE, ma attualmente non è possibile scaricarlo ne tantomeno installarlo in modalità automatica. Si consiglia di andare sul sito ufficiale e dalla pagina  download scaricare l'ultima versione disponibile. ",
       "ideUpdaterDialog": "Aggiornamento software",
-      "newVersionAvailable": "La nuova versione ({0}) di Arduino IDE è disponibile per il download.",
-      "noUpdatesAvailable": "Non ci sono aggiornamenti recenti per Arduino IDE ",
+      "newVersionAvailable": "La nuova versione ({0}) di PTSolns IDE è disponibile per il download.",
+      "noUpdatesAvailable": "Non ci sono aggiornamenti recenti per PTSolns IDE ",
       "notNowButton": "Non ora",
       "skipVersionButton": "Salta questa versione",
       "updateAvailable": "Aggiornamento disponibile",
-      "versionDownloaded": "Arduino IDE {0} è stato scaricato correttamente."
+      "versionDownloaded": "PTSolns IDE {0} è stato scaricato correttamente."
     },
     "installable": {
       "libraryInstallFailed": "Impossibile installare la libreria: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "Nuovo sketch"
     },
     "theme": {
-      "currentThemeNotFound": "Impossibile trovare il tema attualmente selezionato: {0}. Arduino IDE ha selezionato un tema integrato compatibile con quello mancante.",
+      "currentThemeNotFound": "Impossibile trovare il tema attualmente selezionato: {0}. PTSolns IDE ha selezionato un tema integrato compatibile con quello mancante.",
       "dark": "Scuro",
       "deprecated": "{0} (deprecato)",
       "hc": "Scuro ad alto contrasto",
@@ -538,7 +538,7 @@
     "core": {
       "cannotConnectBackend": "Non reisco a collegarmi al backend",
       "cannotConnectDaemon": "Non riesco a collegarmi al demone CLI",
-      "couldNotSave": "Non è stato possibile salvare lo sketch. Si consiglia di copiarlo è salvarlo su un file di testo e solo successivamente riavviare l' Arduino IDE. ",
+      "couldNotSave": "Non è stato possibile salvare lo sketch. Si consiglia di copiarlo è salvarlo su un file di testo e solo successivamente riavviare l' PTSolns IDE. ",
       "daemonOffline": "Il CLI Daemon è disconnesso",
       "offline": "Offline",
       "offlineText": "Offline",

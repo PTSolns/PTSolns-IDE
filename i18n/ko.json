@@ -272,7 +272,7 @@
       "visit": "Arduino.cc 방문"
     },
     "ide-updater": {
-      "checkForUpdates": "Arduino IDE 업데이트 확인",
+      "checkForUpdates": "PTSolns IDE 업데이트 확인",
       "closeAndInstallButton": "닫고 설치하기",
       "closeToInstallNotice": "소프트웨어를 닫고 장치에 업데이트를 설치해주세요.",
       "donateLinkIconTitle": "open donation page",
@@ -284,12 +284,12 @@
       "goToDownloadButton": "다운로드하러 가기",
       "goToDownloadPage": "Ardunio IDE에 대한 업데이트가 있지만 자동으로 다운로드하고 설치할 수 없습니다. 다운로드 페이지에서 최신 버전을 다운로드 해주세요.",
       "ideUpdaterDialog": "소프트웨어 업데이트",
-      "newVersionAvailable": "새로운 버전의 Arduino IDE ({0})를 다운로드할 수 있습니다.",
+      "newVersionAvailable": "새로운 버전의 PTSolns IDE ({0})를 다운로드할 수 있습니다.",
       "noUpdatesAvailable": "현재 Ardunio IDE는 최신 버전입니다",
       "notNowButton": "나중에",
       "skipVersionButton": "이 버전 건너뛰기",
       "updateAvailable": "업데이트 사용 가능",
-      "versionDownloaded": "Arduino IDE {0} 버전이 다운로드 되었습니다. "
+      "versionDownloaded": "PTSolns IDE {0} 버전이 다운로드 되었습니다. "
     },
     "installable": {
       "libraryInstallFailed": "Failed to install library: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "New Sketch"
     },
     "theme": {
-      "currentThemeNotFound": "Could not find the currently selected theme: {0}. Arduino IDE has picked a built-in theme compatible with the missing one.",
+      "currentThemeNotFound": "Could not find the currently selected theme: {0}. PTSolns IDE has picked a built-in theme compatible with the missing one.",
       "dark": "Dark",
       "deprecated": "{0} (deprecated)",
       "hc": "Dark High Contrast",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' already exists."

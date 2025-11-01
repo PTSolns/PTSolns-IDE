@@ -59,7 +59,7 @@
     "target": "electron",
     "frontend": {
       "config": {
-        "applicationName": "Arduino IDE",
+        "applicationName": "PTSolns IDE",
         "defaultTheme": {
           "light": "arduino-theme",
           "dark": "arduino-theme-dark"
@@ -103,10 +103,10 @@
     }
   },
   "author": "Arduino SA",
-  "description": "Arduino IDE",
+  "description": "PTSolns IDE",
   "build": {
     "appId": "cc.arduino.IDE2",
-    "productName": "Arduino IDE",
+    "productName": "PTSolns IDE",
     "asar": false,
     "detectUpdateChannel": false,
     "generateUpdatesFilesForAllChannels": true,

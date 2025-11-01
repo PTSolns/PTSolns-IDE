@@ -272,7 +272,7 @@
       "visit": "Arduino.cc मा जानुहोस्"
     },
     "ide-updater": {
-      "checkForUpdates": "Arduino IDE अपडेटहरूको लागि जाँच गर्नुहोस्",
+      "checkForUpdates": "PTSolns IDE अपडेटहरूको लागि जाँच गर्नुहोस्",
       "closeAndInstallButton": "बन्द गरेर र स्थापना गर्नुहोस्",
       "closeToInstallNotice": "सफ्टवेयर बन्द गर्नुहोस् र आफ्नो मेसिनमा अपडेट स्थापना गर्नुहोस्।",
       "donateLinkIconTitle": "open donation page",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' पहिले नै अवस्थित छ।"

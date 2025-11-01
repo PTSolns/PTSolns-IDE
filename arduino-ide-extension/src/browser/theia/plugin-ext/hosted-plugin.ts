@@ -43,9 +43,9 @@ export class HostedPluginSupportImpl
 }
 
 /**
- * Force the `vscode-arduino-ide` API to activate before any Arduino IDE tool VSIX.
+ * Force the `vscode-arduino-ide` API to activate before any PTSolns IDE tool VSIX.
  *
- * Arduino IDE tool VISXs are not forced to declare the `vscode-arduino-api` as a `extensionDependencies`,
+ * PTSolns IDE tool VISXs are not forced to declare the `vscode-arduino-api` as a `extensionDependencies`,
  * but the API must activate before any tools. This in place sorting helps to bypass Theia's plugin resolution
  * without forcing tools developers to add `vscode-arduino-api` to the `extensionDependencies`.
  */

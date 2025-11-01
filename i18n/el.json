@@ -272,24 +272,24 @@
       "visit": "Επίσκεψη Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "Ελέγξτε για νέες ενημερώσεις Arduino IDE",
+      "checkForUpdates": "Ελέγξτε για νέες ενημερώσεις PTSolns IDE",
       "closeAndInstallButton": "Κλείσιμο και εγκατάσταση",
       "closeToInstallNotice": "Κλείστε το πρόγραμμα και εγκαταστήστε την ενημέρωση στον υπολογιστή σας.",
       "donateLinkIconTitle": "open donation page",
       "donateLinkText": "donate to support us",
       "donateText": "Open source is love, {0}",
       "downloadButton": "Κατεβάστε",
-      "downloadingNotice": "Λήψη της πιο πρόσφατης έκδοσης του Arduino IDE.",
-      "errorCheckingForUpdates": "Σφάλμα κατά τον έλεγχο για ενημερώσεις του Arduino IDE.\n{0}",
+      "downloadingNotice": "Λήψη της πιο πρόσφατης έκδοσης του PTSolns IDE.",
+      "errorCheckingForUpdates": "Σφάλμα κατά τον έλεγχο για ενημερώσεις του PTSolns IDE.\n{0}",
       "goToDownloadButton": "Μετάβαση στη λήψη",
-      "goToDownloadPage": "Υπάρχει διαθέσιμη ενημέρωση για το Arduino IDE, αλλά δεν μπορούμε να το κατεβάσουμε και να το εγκαταστήσουμε αυτόματα. Μεταβείτε στη σελίδα λήψης και κατεβάστε την πιο πρόσφατη έκδοση από εκεί. ",
+      "goToDownloadPage": "Υπάρχει διαθέσιμη ενημέρωση για το PTSolns IDE, αλλά δεν μπορούμε να το κατεβάσουμε και να το εγκαταστήσουμε αυτόματα. Μεταβείτε στη σελίδα λήψης και κατεβάστε την πιο πρόσφατη έκδοση από εκεί. ",
       "ideUpdaterDialog": "Ενημέρωση λογισμικού",
-      "newVersionAvailable": "Μια νέα έκδοση του Arduino IDE ({0}) είναι διαθέσιμη για λήψη.",
-      "noUpdatesAvailable": "Δεν υπάρχουν διαθέσιμες πρόσφατες ενημερώσεις για το Arduino IDE",
+      "newVersionAvailable": "Μια νέα έκδοση του PTSolns IDE ({0}) είναι διαθέσιμη για λήψη.",
+      "noUpdatesAvailable": "Δεν υπάρχουν διαθέσιμες πρόσφατες ενημερώσεις για το PTSolns IDE",
       "notNowButton": "Όχι τώρα",
       "skipVersionButton": "Παράλειψη έκδοσης",
       "updateAvailable": "Διαθέσιμη ενημέρωση",
-      "versionDownloaded": "Arduino IDE {0} έχει ληφθεί."
+      "versionDownloaded": "PTSolns IDE {0} έχει ληφθεί."
     },
     "installable": {
       "libraryInstallFailed": "Αποτυχία εγκατάστασης βιβλιοθήκης: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "Νέο Σχέδιο"
     },
     "theme": {
-      "currentThemeNotFound": "Δεν ήταν δυνατή η εύρεση του τρέχοντος επιλεγμένου θέματος:{0} . Το Arduino IDE έχει επιλέξει ένα ενσωματωμένο θέμα συμβατό με αυτό που λείπει.",
+      "currentThemeNotFound": "Δεν ήταν δυνατή η εύρεση του τρέχοντος επιλεγμένου θέματος:{0} . Το PTSolns IDE έχει επιλέξει ένα ενσωματωμένο θέμα συμβατό με αυτό που λείπει.",
       "dark": "Σκοτεινό",
       "deprecated": "{0}(καταργήθηκε)",
       "hc": "Σκούρο Υψηλής Αντίθεσης",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' υπάρχει ήδη."

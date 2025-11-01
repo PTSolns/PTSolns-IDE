@@ -208,7 +208,7 @@ export namespace LibraryService {
 
 export enum LibraryLocation {
   /**
-   * In the `libraries` subdirectory of the Arduino IDE installation.
+   * In the `libraries` subdirectory of the PTSolns IDE installation.
    */
   BUILTIN = 0,
 

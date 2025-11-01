@@ -272,24 +272,24 @@
       "visit": "Перайсці на Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "Праверыць наяўнасць абнаўленняў Arduino IDE",
+      "checkForUpdates": "Праверыць наяўнасць абнаўленняў PTSolns IDE",
       "closeAndInstallButton": "Зачыніць і ўсталяваць",
       "closeToInstallNotice": "Зачыніце праграмнае забеспячэнне і ўсталюйце абнаўленне на свой кампутар.",
       "donateLinkIconTitle": "адчыніць старонку ахвяраванняў",
       "donateLinkText": "ахвяраваць, каб падтрымаць нас",
       "donateText": "Адкрыты зыходны код - гэта любоў, {0}",
       "downloadButton": "Спампаваць",
-      "downloadingNotice": "Пампуе апошнюю версію Arduino IDE.",
-      "errorCheckingForUpdates": "Памылка пры праверцы абнаўленняў Arduino IDE.\n{0}",
+      "downloadingNotice": "Пампуе апошнюю версію PTSolns IDE.",
+      "errorCheckingForUpdates": "Памылка пры праверцы абнаўленняў PTSolns IDE.\n{0}",
       "goToDownloadButton": "Перайсці да спампоўкі",
-      "goToDownloadPage": "Даступна абнаўленне для Arduino IDE, але мы не можам загрузіць і ўсталяваць яго аўтаматычна.\nКалі ласка, перайдзіце на старонку спампоўкі і спампуйце адтуль апошнюю версію.",
+      "goToDownloadPage": "Даступна абнаўленне для PTSolns IDE, але мы не можам загрузіць і ўсталяваць яго аўтаматычна.\nКалі ласка, перайдзіце на старонку спампоўкі і спампуйце адтуль апошнюю версію.",
       "ideUpdaterDialog": "Абнаўленне праграмнага забеспячэння",
-      "newVersionAvailable": "Новая версія Arduino IDE ({0}) даступная для спампоўкі.",
-      "noUpdatesAvailable": "Апошнія абнаўленні для Arduino IDE недаступныя",
+      "newVersionAvailable": "Новая версія PTSolns IDE ({0}) даступная для спампоўкі.",
+      "noUpdatesAvailable": "Апошнія абнаўленні для PTSolns IDE недаступныя",
       "notNowButton": "Не цяпер",
       "skipVersionButton": "Прапусціць версію",
       "updateAvailable": "Даступна абнаўленне",
-      "versionDownloaded": "Arduino IDE {0} быў спампаваны."
+      "versionDownloaded": "PTSolns IDE {0} быў спампаваны."
     },
     "installable": {
       "libraryInstallFailed": "Не атрымалася ўсталяваць бібліятэку: '{0}{1}'.",
@@ -526,9 +526,9 @@
       "cancelButton": "Можа, пазней",
       "donateButton": "Ахвераваць зараз",
       "donateMessage": "Arduino імкнецца захаваць праграмнае забеспячэнне бясплатным і з адкрытым зыходным кодам для ўсіх.\nВашыя ахвяраванні дапамагаюць нам распрацоўваць новыя функцыі, удасканальваць бібліятэкі і падтрымліваць мільёны карыстальнікаў па ўсім свеце.",
-      "donateMessage2": "Калі ласка, падумайце пра падтрымку нашай працы над бясплатнай Arduino IDE з адкрытым зыходным кодам.",
-      "title": "Сардэчна запрашаем у новую версію Arduino IDE!",
-      "titleWithVersion": "Сардэчна запрашаем у новае асяроддзе распрацоўкі Arduino IDE {0}!"
+      "donateMessage2": "Калі ласка, падумайце пра падтрымку нашай працы над бясплатнай PTSolns IDE з адкрытым зыходным кодам.",
+      "title": "Сардэчна запрашаем у новую версію PTSolns IDE!",
+      "titleWithVersion": "Сардэчна запрашаем у новае асяроддзе распрацоўкі PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "{0}' ужо існуе."

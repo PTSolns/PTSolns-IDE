@@ -35,7 +35,7 @@ export class IDEUpdaterCommands implements CommandContribution {
         this.messageService.info(
           nls.localize(
             'arduino/ide-updater/noUpdatesAvailable',
-            'There are no recent updates available for the Arduino IDE'
+            'There are no recent updates available for the PTSolns IDE'
           )
         );
       }
@@ -44,7 +44,7 @@ export class IDEUpdaterCommands implements CommandContribution {
       this.messageService.error(
         nls.localize(
           'arduino/ide-updater/errorCheckingForUpdates',
-          'Error while checking for Arduino IDE updates.\n{0}',
+          'Error while checking for PTSolns IDE updates.\n{0}',
           e.message
         )
       );
@@ -55,7 +55,7 @@ export namespace IDEUpdaterCommands {
   export const CHECK_FOR_UPDATES: Command = Command.toLocalizedCommand(
     {
       id: 'arduino-check-for-ide-updates',
-      label: 'Check for Arduino IDE Updates',
+      label: 'Check for PTSolns IDE Updates',
       category: 'Arduino',
     },
     'arduino/ide-updater/checkForUpdates'

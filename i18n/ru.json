@@ -272,24 +272,24 @@
       "visit": "Перейти на сайт Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "Проверка обновлений среды Arduino IDE",
+      "checkForUpdates": "Проверка обновлений среды PTSolns IDE",
       "closeAndInstallButton": "Закрыть и установить",
       "closeToInstallNotice": "Закройте программное обеспечение и установите обновление на вашем компьютере.",
       "donateLinkIconTitle": "open donation page",
       "donateLinkText": "donate to support us",
       "donateText": "Open source is love, {0}",
       "downloadButton": "Скачать",
-      "downloadingNotice": "Загрузка последней версии Arduino IDE.",
+      "downloadingNotice": "Загрузка последней версии PTSolns IDE.",
       "errorCheckingForUpdates": "Ошибка при проверке обновлений IDE Arduino.\n{0}",
       "goToDownloadButton": "Перейдите к скачиванию",
-      "goToDownloadPage": "Доступно обновление для Arduino IDE, но мы не можем загрузить и установить его автоматически. Пожалуйста, перейдите на страницу загрузки и оттуда загрузите последнюю версию.",
+      "goToDownloadPage": "Доступно обновление для PTSolns IDE, но мы не можем загрузить и установить его автоматически. Пожалуйста, перейдите на страницу загрузки и оттуда загрузите последнюю версию.",
       "ideUpdaterDialog": "Обновление программного обеспечения",
-      "newVersionAvailable": "Новая версия Arduino IDE ({0}) доступна для загрузки.",
-      "noUpdatesAvailable": "Нет обновлений для Arduino IDE",
+      "newVersionAvailable": "Новая версия PTSolns IDE ({0}) доступна для загрузки.",
+      "noUpdatesAvailable": "Нет обновлений для PTSolns IDE",
       "notNowButton": "Не сейчас",
       "skipVersionButton": "Пропустить версию",
       "updateAvailable": "Доступны обновления",
-      "versionDownloaded": "Arduino IDE {0} был загружен."
+      "versionDownloaded": "PTSolns IDE {0} был загружен."
     },
     "installable": {
       "libraryInstallFailed": "Не удалось установить библиотеку: '{0}{1}'.",
@@ -490,7 +490,7 @@
       "newSketch": "Новый скетч"
     },
     "theme": {
-      "currentThemeNotFound": "Не удалось найти текущую выбранную тему: {0}. Arduino IDE выбрала встроенную тему, совместимую с отсутствующей.",
+      "currentThemeNotFound": "Не удалось найти текущую выбранную тему: {0}. PTSolns IDE выбрала встроенную тему, совместимую с отсутствующей.",
       "dark": "Темный",
       "deprecated": "{0} (устаревшее)",
       "hc": "Темная высокая контрастность",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "{0} уже существует."

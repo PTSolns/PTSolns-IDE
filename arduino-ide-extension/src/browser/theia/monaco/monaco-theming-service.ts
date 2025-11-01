@@ -203,7 +203,7 @@ export class CleanupObsoleteThemes implements FrontendApplicationContribution {
           this.messageService.info(
             nls.localize(
               'arduino/theme/currentThemeNotFound',
-              'Could not find the currently selected theme: {0}. Arduino IDE has picked a built-in theme compatible with the missing one.',
+              'Could not find the currently selected theme: {0}. PTSolns IDE has picked a built-in theme compatible with the missing one.',
               currentTheme.label
             )
           )

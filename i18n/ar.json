@@ -272,24 +272,24 @@
       "visit": "زيارة Arduino.cc"
     },
     "ide-updater": {
-      "checkForUpdates": "جار التحقق من التحديثات لـ Arduino IDE",
+      "checkForUpdates": "جار التحقق من التحديثات لـ PTSolns IDE",
       "closeAndInstallButton": "قم بالاغلاق و التحديث",
       "closeToInstallNotice": "اغلق البرمجية و حّدث الجهاز الخاص بك ",
       "donateLinkIconTitle": "open donation page",
       "donateLinkText": "donate to support us",
       "donateText": "Open source is love, {0}",
       "downloadButton": "حمّل",
-      "downloadingNotice": "يتم تحميل اخر نسخة من Arduino IDE",
-      "errorCheckingForUpdates": "حدث خطأ اثناء البحث عن تحديثات للـ Arduino IDE \n{0}",
+      "downloadingNotice": "يتم تحميل اخر نسخة من PTSolns IDE",
+      "errorCheckingForUpdates": "حدث خطأ اثناء البحث عن تحديثات للـ PTSolns IDE \n{0}",
       "goToDownloadButton": "اذهب الى التحميلات",
       "goToDownloadPage": "يوجد تحديث للArduino IDE . لكننا غير قادرين على تنزيله و تثبيته تلقائيا . الرجاء الذهاب الى صفحة التحميلات و تنزيل احدث نسخة من هناك.",
       "ideUpdaterDialog": "التحديثات للبرنامج",
-      "newVersionAvailable": "نسخة جديدة من {0} Arduino IDE قابلة للتحميل",
-      "noUpdatesAvailable": "لا يوجد تحديثات اخيرة متوافرة لل Arduino IDE",
+      "newVersionAvailable": "نسخة جديدة من {0} PTSolns IDE قابلة للتحميل",
+      "noUpdatesAvailable": "لا يوجد تحديثات اخيرة متوافرة لل PTSolns IDE",
       "notNowButton": "ليس الان",
       "skipVersionButton": "تخطى النسخة",
       "updateAvailable": "يوجد تحديث",
-      "versionDownloaded": "لقد تم تحميل {0} Arduino IDE"
+      "versionDownloaded": "لقد تم تحميل {0} PTSolns IDE"
     },
     "installable": {
       "libraryInstallFailed": "تعذر تثبيت المكتبة : '{0}{1}'",
@@ -345,7 +345,7 @@
       "baudRate": "{0} baud",
       "connectionFailedError": "تعذر الاتصال الى منفذ {0} {1}",
       "connectionFailedErrorWithDetails": "{0} تعذر الاتصال ب{1} منفذ {2} ",
-      "connectionTimeout": "نفذ الوقت . Arduino IDE لم يتلقَّ رسالة 'نجاح' من الشاشة بعد الاتصال بها بنجاح",
+      "connectionTimeout": "نفذ الوقت . PTSolns IDE لم يتلقَّ رسالة 'نجاح' من الشاشة بعد الاتصال بها بنجاح",
       "missingConfigurationError": "تعذر الاتصال الى منفذ {0} {1} . اعدادات التهيئة للشاشة غير موجودة",
       "notConnectedError": "غير متصل الى المنفذ {0} {1}",
       "unableToCloseWebSocket": "تعذر اغلاق مقبس الويب",
@@ -490,7 +490,7 @@
       "newSketch": "مشروع جديد"
     },
     "theme": {
-      "currentThemeNotFound": "تعذر الحصول على السمة التي تم اختيارها : {0} . Arduino IDE اختار سمات موجودة مسبقا و متوافقة مع السمة الغير متوفرة",
+      "currentThemeNotFound": "تعذر الحصول على السمة التي تم اختيارها : {0} . PTSolns IDE اختار سمات موجودة مسبقا و متوافقة مع السمة الغير متوفرة",
       "dark": "غامق",
       "deprecated": "{0} (متقاعد)",
       "hc": "غامق ذو تباين عالٍ",
@@ -526,9 +526,9 @@
       "cancelButton": "Maybe later",
       "donateButton": "Donate now",
       "donateMessage": "Arduino is committed to keeping software free and open-source for everyone. Your donation helps us develop new features, improve libraries, and support millions of users worldwide.",
-      "donateMessage2": "Please consider supporting our work on the free open source Arduino IDE.",
-      "title": "Welcome to a new version of the Arduino IDE!",
-      "titleWithVersion": "Welcome to the new Arduino IDE {0}!"
+      "donateMessage2": "Please consider supporting our work on the free open source PTSolns IDE.",
+      "title": "Welcome to a new version of the PTSolns IDE!",
+      "titleWithVersion": "Welcome to the new PTSolns IDE {0}!"
     },
     "workspace": {
       "alreadyExists": "'{0}' موجود مسبقا"
@@ -538,7 +538,7 @@
     "core": {
       "cannotConnectBackend": "تعذر الاتصال بالخلفية",
       "cannotConnectDaemon": "تعذر الاتصال ب CLI daemon",
-      "couldNotSave": "تعذر حفظ المشروع . الرجاء نسخ عملك الغير محفوظ الى محرر النصوص المفضل لديك و اعادة تشغيل Arduino IDE",
+      "couldNotSave": "تعذر حفظ المشروع . الرجاء نسخ عملك الغير محفوظ الى محرر النصوص المفضل لديك و اعادة تشغيل PTSolns IDE",
       "daemonOffline": "CLI Daemon غير متصل",
       "offline": "غير متصل",
       "offlineText": "غير متصل",

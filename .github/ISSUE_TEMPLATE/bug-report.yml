@@ -66,7 +66,7 @@ body:
       label: Issue checklist
       description: Please double-check that you have done each of the following things before submitting the issue.
       options:
-        - label: I searched for previous reports in [the issue tracker](https://github.com/arduino/arduino-ide/issues?q=)
+        - label: I searched for previous reports in [the issue tracker](https://github.com/PTSolns/PTSolns-IDE/issues?q=)
           required: true
         - label: I verified the problem still occurs when using the latest [nightly build](https://www.arduino.cc/en/software#nightly-builds)
           required: true
