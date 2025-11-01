@@ -1,9 +1,9 @@
 name: themes-weekly-pull
 
 on:
-  schedule:
-    # run every friday at 5AM
-    - cron: '0 5 * * 5'
+#   schedule:
+#     # run every friday at 5AM
+#     - cron: '0 5 * * 5'
   workflow_dispatch:
 
 env:

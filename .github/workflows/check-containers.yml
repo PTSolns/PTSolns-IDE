@@ -12,9 +12,9 @@ on:
       - "**.Dockerfile"
       - "**/Dockerfile"
   repository_dispatch:
-  schedule:
-    # Run periodically to catch breakage caused by external changes.
-    - cron: "0 7 * * MON"
+#   schedule:
+#     # Run periodically to catch breakage caused by external changes.
+#     - cron: "0 7 * * MON"
   workflow_dispatch:
 
 jobs:

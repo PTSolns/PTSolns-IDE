@@ -10,9 +10,9 @@ on:
   pull_request:
     paths:
       - '.github/workflows/check-certificates.ya?ml'
-  schedule:
-    # Run every 10 hours.
-    - cron: '0 */10 * * *'
+#   schedule:
+#     # Run every 10 hours.
+#     - cron: '0 */10 * * *'
   workflow_dispatch:
   repository_dispatch:
 
