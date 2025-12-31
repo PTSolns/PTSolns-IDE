@@ -44,31 +44,6 @@ export class FirstStartupInstaller extends Contribution {
     if (isFirstStartup) {
       const boardInstallationErrors: Error[] = [];
 
-      // Install Arduino AVR platform
-      const avrPackage = await this.boardsService.getBoardPackage({
-        id: 'arduino:avr',
-      });
-      if (avrPackage) {
-        try {
-          await this.boardsService.install({
-            item: avrPackage,
-            noOverwrite: true, // We don't want to automatically replace custom platforms the user might already have in place
-          });
-        } catch (e) {
-          // There's no error code, I need to parse the error message: https://github.com/arduino/arduino-cli/commit/ffe4232b359fcfa87238d68acf1c3b64a1621f14#diff-10ffbdde46838dd9caa881fd1f2a5326a49f8061f6cfd7c9d430b4875a6b6895R62
-          if (
-            !e.message.includes(
-              `Platform ${avrPackage.id}@${avrPackage.installedVersion} already installed`
-            )
-          ) {
-            boardInstallationErrors.push(e);
-          }
-          console.error(`Error installing ${avrPackage.id}:`, e);
-        }
-      } else {
-        boardInstallationErrors.push(new Error('Could not find arduino:avr platform.'));
-      }
-
       // Fetch and install PTSolns boards
       try {
         const response = await fetch(ptsolnsBoardsUrl);

@@ -77,7 +77,6 @@ import { TabBarDecoratorService as TheiaTabBarDecoratorService } from '@theia/co
 import { TabBarDecoratorService } from './theia/core/tab-bar-decorator';
 import { ProblemManager as TheiaProblemManager } from '@theia/markers/lib/browser';
 import { ProblemManager } from './theia/markers/problem-manager';
-import { BoardsAutoInstaller } from './boards/boards-auto-installer';
 import { ShellLayoutRestorer } from './theia/core/shell-layout-restorer';
 import {
   ArduinoComponentContextMenuRenderer,
@@ -478,10 +477,6 @@ export default new ContainerModule((bind, unbind, isBound, rebind) => {
     })
     .inSingletonScope()
     .whenTargetNamed('store');
-
-  // Boards auto-installer
-  bind(BoardsAutoInstaller).toSelf().inSingletonScope();
-  bind(FrontendApplicationContribution).toService(BoardsAutoInstaller);
 
   // Boards list widget
   bind(BoardsListWidget).toSelf();
