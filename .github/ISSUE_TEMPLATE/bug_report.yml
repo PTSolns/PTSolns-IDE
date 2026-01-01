@@ -46,9 +46,9 @@ body:
     attributes:
       label: Did you see a Windows "Unknown publisher" warning?
       options:
-        - "Yes"
         - "No"
-        - "Not applicable"
+        - "Yes"
+       
     validations:
       required: true
 
@@ -56,9 +56,9 @@ body:
     attributes:
       label: Did you see SmartScreen (Windows) or Gatekeeper (macOS)?
       options:
-        - "Yes"
         - "No"
-        - "Not applicable"
+        - "Yes"
+  
     validations:
       required: true
 
