@@ -1,19 +1,25 @@
 name: 🐛 Bug Report
-description: Report a reproducible bug or installation issue with PTSolns IDE
+description: Report a bug or installation/security warning with PTSolns IDE
 title: "[Bug]: "
 labels: ["bug"]
+assignees:
+  - Kia7596
+  - PTSolns
 
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for reporting a bug.
-        Please fill out all required fields. Detailed answers help us fix issues faster.
+        If we need more info, we will contact you through your GitHub account.
 
-  - type: input
+  - type: dropdown
     attributes:
-      label: Your name
-      placeholder: e.g. John Smith
+      label: May PTSolns staff contact you about this bug if more information is needed?
+      description: We will contact you through GitHub (comments or @mentions).
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true
 
@@ -31,41 +37,8 @@ body:
 
   - type: input
     attributes:
-      label: Age of the computer
-      placeholder: e.g. New, 2 years, 5+ years
-    validations:
-      required: true
-
-  - type: input
-    attributes:
       label: Version of PTSolns IDE tested
       placeholder: e.g. v0.0.44
-    validations:
-      required: true
-
-  - type: dropdown
-    attributes:
-      label: Have you ever installed Arduino IDE on this computer?
-      options:
-        - "Yes"
-        - "No"
-        - "Not sure"
-    validations:
-      required: true
-
-  - type: input
-    attributes:
-      label: Total time for initial installation
-      description: Write "Fail" if installation did not succeed
-      placeholder: e.g. 30 seconds, 2 minutes, Fail
-    validations:
-      required: true
-
-  - type: input
-    attributes:
-      label: Total time for first launch
-      description: Write "Fail" if the software did not launch
-      placeholder: e.g. 10 seconds, 1 minute, Fail
     validations:
       required: true
 
@@ -98,28 +71,26 @@ body:
 
   - type: textarea
     attributes:
-      label: Steps to reproduce
+      label: Steps to reproduce (optional)
+      description: If you can reproduce it, list steps here. If not, leave blank.
       placeholder: |
         1. Download installer
         2. Run installer
         3. Click ...
         4. Error occurs
     validations:
-      required: true
+      required: false
 
   - type: textarea
     attributes:
-      label: Expected behavior
-      description: What did you expect to happen?
+      label: Expected behavior (optional)
+      description: What did you expect to happen instead?
     validations:
-      required: true
+      required: false
 
   - type: textarea
     attributes:
-      label: Logs, screenshots, or additional notes
-      description: Drag and drop files here if available (optional)
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for reporting a bug.
-        You do not need to assign anyone — we handle that internally.
+      label: Logs, screenshots, or additional notes (optional)
+      description: Drag and drop files here if available.
+    validations:
+      required: false
