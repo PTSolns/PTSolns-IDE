@@ -24,13 +24,13 @@ Download the latest release here [_PTSolns IDE_](https://ptsolns.com/ide).
 ## Installation Support
 As with any desktop application, there may be the occational hiccup. We are constantly updating and revising our [PTSolns IDE Help Page](https://ptsolns.com/ide-help) to gather any user issues and to make installing _PTSolns IDE_ as easy as possible.
 
-If you have found a potential bug or installation issue, please let us know by [submitting a new issue](https://github.com/PTSolns/PTSolns-IDE/issues).
+If you have found a potential bug or installation issue, please let us know by [submitting a new issue](https://github.com/PTSolns/PTSolns-IDE/issues/new?template=bug_report.yml).
 
 ## CH340 Driver Support
 _PTSolns IDE_ inherently supports the common and popular CH340 driver. To accomplish this we have wrapped our own CH340 driver installation tool, which can be initiated directly from within the application. For full details please see [PTSolns.com/CH340](https://ptsolns.com/ch340)
 
 ## Bugs? :bug:
-Have you found a bug? Please let us know by [submitting a new issue](https://github.com/PTSolns/PTSolns-IDE/issues).
+Have you found a bug? Please let us know by [submitting a new issue](https://github.com/PTSolns/PTSolns-IDE/issues/new?template=bug_report.yml).
 
 ## Future Development
 This is just the beginning! We have a lot of plans to expand and improve _PTSolns IDE_. Our growth is community driven and depends on demand. Some of our current plans for future development include:
