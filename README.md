@@ -29,6 +29,16 @@ If you have found a potential bug or installation issue, please let us know by [
 ## CH340 Driver Support
 _PTSolns IDE_ inherently supports the common and popular CH340 driver. To accomplish this we have wrapped our own CH340 driver installation tool, which can be initiated directly from within the application. For full details please see [PTSolns.com/CH340](https://ptsolns.com/ch340)
 
+## Questions on How to Use _PTSolns IDE_?
+We've trained a custom GPT on all things relating to _PTSolns IDE_. Ask it questions on:
+- How to install the CH340 driver
+- How to write a non-blocking timing sketch
+- How to add a library or install a new board
+- And much more!
+
+We are constantly updating and training this GPT, but if there is something that the GPT cannot answer we are always here to [help](https://ptsolns.com/ch340). 
+Give it a try here: [_PTSolns IDE GPT_](https://chatgpt.com/g/g-68faecd6f4b4819193f1591c861f2d14-ptsolns-ide-gpt)
+
 ## Bugs? :bug:
 Have you found a bug? Please let us know by [submitting a new issue](https://github.com/PTSolns/PTSolns-IDE/issues/new?template=bug_report.yml).
 
