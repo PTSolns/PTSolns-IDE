@@ -277,7 +277,7 @@
       "closeToInstallNotice": "關閉本程式後安裝更新。",
       "donateLinkIconTitle": "open donation page",
       "donateLinkText": "donate to support us",
-      "donateText": "Open source is love, {0}",
+      "donateText": "",
       "downloadButton": "下載",
       "downloadingNotice": "正在下載最新版本的PTSolns IDE。",
       "errorCheckingForUpdates": "檢查 PTSolns IDE 更新時發生錯誤。\n{0}",
