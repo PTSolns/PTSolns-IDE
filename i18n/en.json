@@ -282,7 +282,7 @@
       "closeToInstallNotice": "Close the software and install the update on your machine.",
       "donateLinkIconTitle": "open donation page",
       "donateLinkText": "donate to support us",
-      "donateText": "Open source is love, {0}",
+      "donateText": "",
       "downloadButton": "Download",
       "downloadingNotice": "Downloading the latest version of the PTSolns IDE.",
       "errorCheckingForUpdates": "Error while checking for PTSolns IDE updates.\n{0}",
