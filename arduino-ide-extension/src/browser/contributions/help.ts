@@ -44,7 +44,14 @@ export class Help extends Contribution {
       Help.Commands.PRIVACY_POLICY,
       createOpenHandler('https://ptsolns.com/pages/privacy-policy')
     );
+    registry.registerCommand(
+      Help.Commands.SUBMIT_BUG_TICKET,
+      createOpenHandler('https://github.com/PTSolns/PTSolns-IDE/issues/new?template=bug_report.yml')
+    );
+
   }
+
+
 
   override registerMenus(registry: MenuModelRegistry): void {
     registry.unregisterMenuAction({
@@ -67,6 +74,11 @@ export class Help extends Contribution {
       commandId: IDEUpdaterCommands.CHECK_FOR_UPDATES.id,
       order: '8',
     });
+    registry.registerMenuAction(ArduinoMenus.HELP__FIND_GROUP, {
+      commandId: Help.Commands.SUBMIT_BUG_TICKET.id,
+      order: '9',
+    });
+
   }
 
 }
@@ -88,5 +100,11 @@ export namespace Help {
       label: nls.localize('arduino/help/privacyPolicy', 'Privacy Policy'),
       category: 'Arduino',
     };
+    export const SUBMIT_BUG_TICKET: Command = {
+      id: 'arduino-submit-bug-ticket',
+      label: nls.localize('arduino/help/submitBugTicket', 'Submit a Bug Ticket'),
+      category: 'Arduino',
+    };
+
   }
 }
