@@ -277,7 +277,7 @@
       "closeToInstallNotice": "Software beenden und Update auf deinem Computer installieren",
       "donateLinkIconTitle": "Öffne die Spenden Seite",
       "donateLinkText": "Spenden um uns zu Unterstützen",
-      "donateText": "Open Source ist Liebe, {0}",
+      "donateText": "",
       "downloadButton": "Download",
       "downloadingNotice": "Die neueste Version der PTSolns IDE wird heruntergeladen.",
       "errorCheckingForUpdates": "Fehler bei der Suche nach IDE Updates{0}",
