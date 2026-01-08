@@ -193,7 +193,7 @@ export class IDEUpdaterDialog extends ReactDialog<UpdateInfo | undefined> {
     const footerText = sanitize(
       nls.localize(
         'arduino/ide-updater/donateText',
-        'Open source is love, {0}',
+        '{0}',
         placeholderKey
       )
     );
