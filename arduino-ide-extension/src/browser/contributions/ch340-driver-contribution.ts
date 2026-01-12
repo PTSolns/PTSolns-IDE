@@ -43,11 +43,20 @@ export class Ch340DriverCommandContribution implements CommandContribution {
   }
 
   protected async installCh340Driver(): Promise<void> {
-    try {
-      await this.executableService.installCh340Driver();
-      console.log('CH340 Driver installation initiated successfully.');
-    } catch (error) {
-      console.error('Failed to initiate CH340 Driver installation:', error);
+    if (navigator.platform.indexOf('Win') > -1) { // Check if it's Windows
+      try {
+        await this.executableService.installCh340Driver();
+        console.log('CH340 Driver installation initiated successfully.');
+      } catch (error) {
+        console.error('Failed to initiate CH340 Driver installation:', error);
+      }
+    } else {
+      // Not Windows, navigate to the instructions page
+      await this.commandService.executeCommand(
+        'vscode.open',
+        'https://ptsolns.com/pages/ch340-driver#downloading-the-ch340-driver-manually'
+      );
+      console.log('Navigated to CH340 Driver manual installation instructions for non-Windows OS.');
     }
   }
 }
